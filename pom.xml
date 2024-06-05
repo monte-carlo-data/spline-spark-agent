@@ -438,7 +438,7 @@
             <dependency>
                 <groupId>org.elasticsearch</groupId>
                 <artifactId>elasticsearch-hadoop</artifactId>
-                <version>7.6.0</version>
+                <version>7.17.11</version>
             </dependency>
             <dependency>
                 <groupId>za.co.absa.cobrix</groupId>
@@ -456,7 +456,7 @@
             <dependency>
                 <groupId>org.apache.kafka</groupId>
                 <artifactId>kafka-clients</artifactId>
-                <version>2.4.1</version>
+                <version>2.6.3</version>
             </dependency>
             <dependency>
                 <groupId>io.github.embeddedkafka</groupId>
@@ -718,7 +718,7 @@
                     <dependency>
                         <groupId>org.apache.avro</groupId>
                         <artifactId>avro</artifactId>
-                        <version>1.7.7</version>
+                        <version>1.11.3</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.avro</groupId>
@@ -763,7 +763,7 @@
                     <dependency>
                         <groupId>org.apache.calcite</groupId>
                         <artifactId>calcite-core</artifactId>
-                        <version>1.2.0-incubating</version>
+                        <version>1.32.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.calcite</groupId>
@@ -783,7 +783,7 @@
                     <dependency>
                         <groupId>commons-beanutils</groupId>
                         <artifactId>commons-beanutils</artifactId>
-                        <version>1.7.0</version>
+                        <version>1.9.4</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-beanutils</groupId>
@@ -813,7 +813,7 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-compress</artifactId>
-                        <version>1.4.1</version>
+                        <version>1.26.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-configuration</groupId>
@@ -868,7 +868,7 @@
                     <dependency>
                         <groupId>commons-net</groupId>
                         <artifactId>commons-net</artifactId>
-                        <version>2.2</version>
+                        <version>3.9.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-pool</groupId>
@@ -918,7 +918,7 @@
                     <dependency>
                         <groupId>org.apache.derby</groupId>
                         <artifactId>derby</artifactId>
-                        <version>10.12.1.1</version>
+                        <version>10.17.1.0</version>
                     </dependency>
                     <dependency>
                         <groupId>net.hydromatic</groupId>
@@ -958,7 +958,7 @@
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
                         <artifactId>hadoop-common</artifactId>
-                        <version>2.7.3</version>
+                        <version>3.2.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
@@ -1073,7 +1073,7 @@
                     <dependency>
                         <groupId>org.apache.ivy</groupId>
                         <artifactId>ivy</artifactId>
-                        <version>2.4.0</version>
+                        <version>2.5.2</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
@@ -1093,7 +1093,7 @@
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
                         <artifactId>jackson-databind</artifactId>
-                        <version>2.6.5</version>
+                        <version>2.12.7.1</version>
                     </dependency>
                     <dependency>
                         <groupId>org.codehaus.jackson</groupId>
@@ -1128,7 +1128,7 @@
                     <dependency>
                         <groupId>com.jamesmurty.utils</groupId>
                         <artifactId>java-xmlbuilder</artifactId>
-                        <version>1.0</version>
+                        <version>1.2</version>
                     </dependency>
                     <dependency>
                         <groupId>com.googlecode.javaewah</groupId>
@@ -1343,7 +1343,7 @@
                     <dependency>
                         <groupId>org.apache.mesos</groupId>
                         <artifactId>mesos</artifactId>
-                        <version>1.0.0-shaded-protobuf</version>
+                        <version>1.6.2</version>
                     </dependency>
                     <dependency>
                         <groupId>io.dropwizard.metrics</groupId>
@@ -1383,7 +1383,7 @@
                     <dependency>
                         <groupId>io.netty</groupId>
                         <artifactId>netty-all</artifactId>
-                        <version>4.0.43.Final</version>
+                        <version>4.1.42.Final</version>
                     </dependency>
                     <dependency>
                         <groupId>org.objenesis</groupId>
@@ -1458,7 +1458,7 @@
                     <dependency>
                         <groupId>com.google.protobuf</groupId>
                         <artifactId>protobuf-java</artifactId>
-                        <version>2.5.0</version>
+                        <version>3.16.3</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.py4j</groupId>
@@ -1503,12 +1503,12 @@
                     <dependency>
                         <groupId>org.iq80.snappy</groupId>
                         <artifactId>snappy</artifactId>
-                        <version>0.2</version>
+                        <version>0.5</version>
                     </dependency>
                     <dependency>
                         <groupId>org.xerial.snappy</groupId>
                         <artifactId>snappy-java</artifactId>
-                        <version>1.1.2.6</version>
+                        <version>1.1.10.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.spark</groupId>
@@ -1658,7 +1658,7 @@
                     <dependency>
                         <groupId>xerces</groupId>
                         <artifactId>xercesImpl</artifactId>
-                        <version>2.9.1</version>
+                        <version>2.12.2</version>
                     </dependency>
                     <dependency>
                         <groupId>xmlenc</groupId>
@@ -1673,7 +1673,7 @@
                     <dependency>
                         <groupId>org.apache.zookeeper</groupId>
                         <artifactId>zookeeper</artifactId>
-                        <version>3.4.6</version>
+                        <version>3.8.4</version>
                     </dependency>
                 </dependencies>
             </dependencyManagement>
@@ -1716,7 +1716,7 @@
                     <dependency>
                         <groupId>io.airlift</groupId>
                         <artifactId>aircompressor</artifactId>
-                        <version>0.8</version>
+                        <version>0.27</version>
                     </dependency>
                     <dependency>
                         <groupId>antlr</groupId>
@@ -1796,7 +1796,7 @@
                     <dependency>
                         <groupId>org.apache.avro</groupId>
                         <artifactId>avro</artifactId>
-                        <version>1.7.7</version>
+                        <version>1.11.3</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.avro</groupId>
@@ -1841,7 +1841,7 @@
                     <dependency>
                         <groupId>org.apache.calcite</groupId>
                         <artifactId>calcite-core</artifactId>
-                        <version>1.2.0-incubating</version>
+                        <version>1.32.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.calcite</groupId>
@@ -1861,7 +1861,7 @@
                     <dependency>
                         <groupId>commons-beanutils</groupId>
                         <artifactId>commons-beanutils</artifactId>
-                        <version>1.7.0</version>
+                        <version>1.9.4</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-beanutils</groupId>
@@ -1891,7 +1891,7 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-compress</artifactId>
-                        <version>1.4.1</version>
+                        <version>1.26.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-configuration</groupId>
@@ -1946,7 +1946,7 @@
                     <dependency>
                         <groupId>commons-net</groupId>
                         <artifactId>commons-net</artifactId>
-                        <version>2.2</version>
+                        <version>3.9.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-pool</groupId>
@@ -1996,7 +1996,7 @@
                     <dependency>
                         <groupId>org.apache.derby</groupId>
                         <artifactId>derby</artifactId>
-                        <version>10.12.1.1</version>
+                        <version>10.17.1.0</version>
                     </dependency>
                     <dependency>
                         <groupId>net.hydromatic</groupId>
@@ -2046,7 +2046,7 @@
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
                         <artifactId>hadoop-common</artifactId>
-                        <version>2.7.3</version>
+                        <version>3.2.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
@@ -2166,7 +2166,7 @@
                     <dependency>
                         <groupId>org.apache.ivy</groupId>
                         <artifactId>ivy</artifactId>
-                        <version>2.4.0</version>
+                        <version>2.5.2</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
@@ -2186,7 +2186,7 @@
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
                         <artifactId>jackson-databind</artifactId>
-                        <version>2.6.7.1</version>
+                        <version>2.12.7.1</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -2231,7 +2231,7 @@
                     <dependency>
                         <groupId>com.jamesmurty.utils</groupId>
                         <artifactId>java-xmlbuilder</artifactId>
-                        <version>1.1</version>
+                        <version>1.2</version>
                     </dependency>
                     <dependency>
                         <groupId>com.googlecode.javaewah</groupId>
@@ -2456,7 +2456,7 @@
                     <dependency>
                         <groupId>org.apache.mesos</groupId>
                         <artifactId>mesos</artifactId>
-                        <version>1.4.0-shaded-protobuf</version>
+                        <version>1.6.2</version>
                     </dependency>
                     <dependency>
                         <groupId>io.dropwizard.metrics</groupId>
@@ -2491,7 +2491,7 @@
                     <dependency>
                         <groupId>io.netty</groupId>
                         <artifactId>netty-all</artifactId>
-                        <version>4.1.17.Final</version>
+                        <version>4.1.42.Final</version>
                     </dependency>
                     <dependency>
                         <groupId>org.objenesis</groupId>
@@ -2506,7 +2506,7 @@
                     <dependency>
                         <groupId>com.squareup.okio</groupId>
                         <artifactId>okio</artifactId>
-                        <version>1.13.0</version>
+                        <version>1.17.6</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.opencsv</groupId>
@@ -2576,7 +2576,7 @@
                     <dependency>
                         <groupId>com.google.protobuf</groupId>
                         <artifactId>protobuf-java</artifactId>
-                        <version>2.5.0</version>
+                        <version>3.16.3</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.py4j</groupId>
@@ -2626,17 +2626,17 @@
                     <dependency>
                         <groupId>org.yaml</groupId>
                         <artifactId>snakeyaml</artifactId>
-                        <version>1.15</version>
+                        <version>2.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.iq80.snappy</groupId>
                         <artifactId>snappy</artifactId>
-                        <version>0.2</version>
+                        <version>0.5</version>
                     </dependency>
                     <dependency>
                         <groupId>org.xerial.snappy</groupId>
                         <artifactId>snappy-java</artifactId>
-                        <version>1.1.2.6</version>
+                        <version>1.1.10.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.spark</groupId>
@@ -2796,7 +2796,7 @@
                     <dependency>
                         <groupId>xerces</groupId>
                         <artifactId>xercesImpl</artifactId>
-                        <version>2.9.1</version>
+                        <version>2.12.2</version>
                     </dependency>
                     <dependency>
                         <groupId>xmlenc</groupId>
@@ -2816,7 +2816,7 @@
                     <dependency>
                         <groupId>org.apache.zookeeper</groupId>
                         <artifactId>zookeeper</artifactId>
-                        <version>3.4.6</version>
+                        <version>3.8.4</version>
                     </dependency>
                     <dependency>
                         <groupId>com.github.luben</groupId>
@@ -2844,7 +2844,7 @@
                     <dependency>
                         <groupId>io.airlift</groupId>
                         <artifactId>aircompressor</artifactId>
-                        <version>0.10</version>
+                        <version>0.27</version>
                     </dependency>
                     <dependency>
                         <groupId>antlr</groupId>
@@ -2924,7 +2924,7 @@
                     <dependency>
                         <groupId>org.apache.avro</groupId>
                         <artifactId>avro</artifactId>
-                        <version>1.8.2</version>
+                        <version>1.11.3</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.avro</groupId>
@@ -2959,7 +2959,7 @@
                     <dependency>
                         <groupId>org.apache.calcite</groupId>
                         <artifactId>calcite-core</artifactId>
-                        <version>1.2.0-incubating</version>
+                        <version>1.32.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.calcite</groupId>
@@ -2979,7 +2979,7 @@
                     <dependency>
                         <groupId>commons-beanutils</groupId>
                         <artifactId>commons-beanutils</artifactId>
-                        <version>1.9.3</version>
+                        <version>1.9.4</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-beanutils</groupId>
@@ -3009,7 +3009,7 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-compress</artifactId>
-                        <version>1.8.1</version>
+                        <version>1.26.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-configuration</groupId>
@@ -3064,7 +3064,7 @@
                     <dependency>
                         <groupId>commons-net</groupId>
                         <artifactId>commons-net</artifactId>
-                        <version>3.1</version>
+                        <version>3.9.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-pool</groupId>
@@ -3114,7 +3114,7 @@
                     <dependency>
                         <groupId>org.apache.derby</groupId>
                         <artifactId>derby</artifactId>
-                        <version>10.12.1.1</version>
+                        <version>10.17.1.0</version>
                     </dependency>
                     <dependency>
                         <groupId>net.hydromatic</groupId>
@@ -3164,7 +3164,7 @@
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
                         <artifactId>hadoop-common</artifactId>
-                        <version>2.7.3</version>
+                        <version>3.2.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
@@ -3284,7 +3284,7 @@
                     <dependency>
                         <groupId>org.apache.ivy</groupId>
                         <artifactId>ivy</artifactId>
-                        <version>2.4.0</version>
+                        <version>2.5.2</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
@@ -3304,7 +3304,7 @@
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
                         <artifactId>jackson-databind</artifactId>
-                        <version>2.6.7.1</version>
+                        <version>2.12.7.1</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -3574,7 +3574,7 @@
                     <dependency>
                         <groupId>org.apache.mesos</groupId>
                         <artifactId>mesos</artifactId>
-                        <version>1.4.0-shaded-protobuf</version>
+                        <version>1.6.2</version>
                     </dependency>
                     <dependency>
                         <groupId>io.dropwizard.metrics</groupId>
@@ -3609,7 +3609,7 @@
                     <dependency>
                         <groupId>io.netty</groupId>
                         <artifactId>netty-all</artifactId>
-                        <version>4.1.17.Final</version>
+                        <version>4.1.42.Final</version>
                     </dependency>
                     <dependency>
                         <groupId>org.objenesis</groupId>
@@ -3624,7 +3624,7 @@
                     <dependency>
                         <groupId>com.squareup.okio</groupId>
                         <artifactId>okio</artifactId>
-                        <version>1.13.0</version>
+                        <version>1.17.6</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.opencsv</groupId>
@@ -3699,7 +3699,7 @@
                     <dependency>
                         <groupId>com.google.protobuf</groupId>
                         <artifactId>protobuf-java</artifactId>
-                        <version>2.5.0</version>
+                        <version>3.16.3</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.py4j</groupId>
@@ -3749,17 +3749,17 @@
                     <dependency>
                         <groupId>org.yaml</groupId>
                         <artifactId>snakeyaml</artifactId>
-                        <version>1.15</version>
+                        <version>2.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.iq80.snappy</groupId>
                         <artifactId>snappy</artifactId>
-                        <version>0.2</version>
+                        <version>0.5</version>
                     </dependency>
                     <dependency>
                         <groupId>org.xerial.snappy</groupId>
                         <artifactId>snappy-java</artifactId>
-                        <version>1.1.7.3</version>
+                        <version>1.1.10.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.spark</groupId>
@@ -3919,7 +3919,7 @@
                     <dependency>
                         <groupId>xerces</groupId>
                         <artifactId>xercesImpl</artifactId>
-                        <version>2.9.1</version>
+                        <version>2.12.2</version>
                     </dependency>
                     <dependency>
                         <groupId>xmlenc</groupId>
@@ -3944,7 +3944,7 @@
                     <dependency>
                         <groupId>org.apache.zookeeper</groupId>
                         <artifactId>zookeeper</artifactId>
-                        <version>3.5.6</version>
+                        <version>3.8.4</version>
                     </dependency>
                 </dependencies>
             </dependencyManagement>
@@ -3967,7 +3967,7 @@
                     <dependency>
                         <groupId>io.airlift</groupId>
                         <artifactId>aircompressor</artifactId>
-                        <version>0.10</version>
+                        <version>0.27</version>
                     </dependency>
                     <dependency>
                         <groupId>org.typelevel</groupId>
@@ -4047,7 +4047,7 @@
                     <dependency>
                         <groupId>org.apache.avro</groupId>
                         <artifactId>avro</artifactId>
-                        <version>1.8.2</version>
+                        <version>1.11.3</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.avro</groupId>
@@ -4117,7 +4117,7 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-compress</artifactId>
-                        <version>1.20</version>
+                        <version>1.26.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-configuration</groupId>
@@ -4172,7 +4172,7 @@
                     <dependency>
                         <groupId>commons-net</groupId>
                         <artifactId>commons-net</artifactId>
-                        <version>3.1</version>
+                        <version>3.9.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-pool</groupId>
@@ -4182,7 +4182,7 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-text</artifactId>
-                        <version>1.6</version>
+                        <version>1.10.0</version>
                     </dependency>
                     <dependency>
                         <groupId>com.ning</groupId>
@@ -4227,7 +4227,7 @@
                     <dependency>
                         <groupId>org.apache.derby</groupId>
                         <artifactId>derby</artifactId>
-                        <version>10.12.1.1</version>
+                        <version>10.17.1.0</version>
                     </dependency>
                     <dependency>
                         <groupId>com.github.joshelser</groupId>
@@ -4277,7 +4277,7 @@
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
                         <artifactId>hadoop-common</artifactId>
-                        <version>2.7.4</version>
+                        <version>3.2.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
@@ -4442,7 +4442,7 @@
                     <dependency>
                         <groupId>org.apache.ivy</groupId>
                         <artifactId>ivy</artifactId>
-                        <version>2.4.0</version>
+                        <version>2.5.2</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
@@ -4462,7 +4462,7 @@
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
                         <artifactId>jackson-databind</artifactId>
-                        <version>2.10.0</version>
+                        <version>2.12.7.1</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -4772,7 +4772,7 @@
                     <dependency>
                         <groupId>org.apache.mesos</groupId>
                         <artifactId>mesos</artifactId>
-                        <version>1.4.0-shaded-protobuf</version>
+                        <version>1.6.2</version>
                     </dependency>
                     <dependency>
                         <groupId>io.dropwizard.metrics</groupId>
@@ -4807,7 +4807,7 @@
                     <dependency>
                         <groupId>io.netty</groupId>
                         <artifactId>netty-all</artifactId>
-                        <version>4.1.47.Final</version>
+                        <version>4.1.42.Final</version>
                     </dependency>
                     <dependency>
                         <groupId>org.objenesis</groupId>
@@ -4822,7 +4822,7 @@
                     <dependency>
                         <groupId>com.squareup.okio</groupId>
                         <artifactId>okio</artifactId>
-                        <version>1.15.0</version>
+                        <version>1.17.6</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.opencsv</groupId>
@@ -4892,7 +4892,7 @@
                     <dependency>
                         <groupId>com.google.protobuf</groupId>
                         <artifactId>protobuf-java</artifactId>
-                        <version>2.5.0</version>
+                        <version>3.16.3</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.py4j</groupId>
@@ -4947,12 +4947,12 @@
                     <dependency>
                         <groupId>org.yaml</groupId>
                         <artifactId>snakeyaml</artifactId>
-                        <version>1.24</version>
+                        <version>2.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.xerial.snappy</groupId>
                         <artifactId>snappy-java</artifactId>
-                        <version>1.1.8.2</version>
+                        <version>1.1.10.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.spark</groupId>
@@ -5127,7 +5127,7 @@
                     <dependency>
                         <groupId>xerces</groupId>
                         <artifactId>xercesImpl</artifactId>
-                        <version>2.12.0</version>
+                        <version>2.12.2</version>
                     </dependency>
                     <dependency>
                         <groupId>xml-apis</groupId>
@@ -5152,7 +5152,7 @@
                     <dependency>
                         <groupId>org.apache.zookeeper</groupId>
                         <artifactId>zookeeper</artifactId>
-                        <version>3.4.14</version>
+                        <version>3.8.4</version>
                     </dependency>
                     <dependency>
                         <groupId>com.github.luben</groupId>
@@ -5185,7 +5185,7 @@
                     <dependency>
                         <groupId>io.airlift</groupId>
                         <artifactId>aircompressor</artifactId>
-                        <version>0.10</version>
+                        <version>0.27</version>
                     </dependency>
                     <dependency>
                         <groupId>org.typelevel</groupId>
@@ -5250,7 +5250,7 @@
                     <dependency>
                         <groupId>org.apache.avro</groupId>
                         <artifactId>avro</artifactId>
-                        <version>1.8.2</version>
+                        <version>1.11.3</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.avro</groupId>
@@ -5320,12 +5320,12 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-compress</artifactId>
-                        <version>1.20</version>
+                        <version>1.26.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-configuration2</artifactId>
-                        <version>2.1.1</version>
+                        <version>2.10.1</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.commons</groupId>
@@ -5375,7 +5375,7 @@
                     <dependency>
                         <groupId>commons-net</groupId>
                         <artifactId>commons-net</artifactId>
-                        <version>3.1</version>
+                        <version>3.9.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-pool</groupId>
@@ -5385,7 +5385,7 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-text</artifactId>
-                        <version>1.6</version>
+                        <version>1.10.0</version>
                     </dependency>
                     <dependency>
                         <groupId>com.ning</groupId>
@@ -5430,7 +5430,7 @@
                     <dependency>
                         <groupId>org.apache.derby</groupId>
                         <artifactId>derby</artifactId>
-                        <version>10.12.1.1</version>
+                        <version>10.17.1.0</version>
                     </dependency>
                     <dependency>
                         <groupId>dnsjava</groupId>
@@ -5495,7 +5495,7 @@
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
                         <artifactId>hadoop-common</artifactId>
-                        <version>3.2.0</version>
+                        <version>3.2.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.hadoop</groupId>
@@ -5660,7 +5660,7 @@
                     <dependency>
                         <groupId>org.apache.ivy</groupId>
                         <artifactId>ivy</artifactId>
-                        <version>2.4.0</version>
+                        <version>2.5.2</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
@@ -5680,7 +5680,7 @@
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
                         <artifactId>jackson-databind</artifactId>
-                        <version>2.10.0</version>
+                        <version>2.12.7.1</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -5875,7 +5875,7 @@
                     <dependency>
                         <groupId>net.minidev</groupId>
                         <artifactId>json-smart</artifactId>
-                        <version>2.3</version>
+                        <version>2.4.9</version>
                     </dependency>
                     <dependency>
                         <groupId>org.json4s</groupId>
@@ -6140,7 +6140,7 @@
                     <dependency>
                         <groupId>org.apache.mesos</groupId>
                         <artifactId>mesos</artifactId>
-                        <version>1.4.0-shaded-protobuf</version>
+                        <version>1.6.2</version>
                     </dependency>
                     <dependency>
                         <groupId>io.dropwizard.metrics</groupId>
@@ -6175,12 +6175,12 @@
                     <dependency>
                         <groupId>io.netty</groupId>
                         <artifactId>netty-all</artifactId>
-                        <version>4.1.51.Final</version>
+                        <version>4.1.42.Final</version>
                     </dependency>
                     <dependency>
                         <groupId>com.nimbusds</groupId>
                         <artifactId>nimbus-jose-jwt</artifactId>
-                        <version>4.41.1</version>
+                        <version>9.37.2</version>
                     </dependency>
                     <dependency>
                         <groupId>org.objenesis</groupId>
@@ -6200,7 +6200,7 @@
                     <dependency>
                         <groupId>com.squareup.okio</groupId>
                         <artifactId>okio</artifactId>
-                        <version>1.14.0</version>
+                        <version>1.17.6</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.opencsv</groupId>
@@ -6270,7 +6270,7 @@
                     <dependency>
                         <groupId>com.google.protobuf</groupId>
                         <artifactId>protobuf-java</artifactId>
-                        <version>2.5.0</version>
+                        <version>3.16.3</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.py4j</groupId>
@@ -6330,12 +6330,12 @@
                     <dependency>
                         <groupId>org.yaml</groupId>
                         <artifactId>snakeyaml</artifactId>
-                        <version>1.24</version>
+                        <version>2.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.xerial.snappy</groupId>
                         <artifactId>snappy-java</artifactId>
-                        <version>1.1.8.2</version>
+                        <version>1.1.10.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.spark</groupId>
@@ -6510,7 +6510,7 @@
                     <dependency>
                         <groupId>com.fasterxml.woodstox</groupId>
                         <artifactId>woodstox-core</artifactId>
-                        <version>5.0.3</version>
+                        <version>5.4.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.xbean</groupId>
@@ -6530,7 +6530,7 @@
                     <dependency>
                         <groupId>org.apache.zookeeper</groupId>
                         <artifactId>zookeeper</artifactId>
-                        <version>3.4.14</version>
+                        <version>3.8.4</version>
                     </dependency>
                     <dependency>
                         <groupId>com.github.luben</groupId>
@@ -6558,7 +6558,7 @@
                     <dependency>
                         <groupId>io.airlift</groupId>
                         <artifactId>aircompressor</artifactId>
-                        <version>0.21</version>
+                        <version>0.27</version>
                     </dependency>
                     <dependency>
                         <groupId>org.typelevel</groupId>
@@ -6628,7 +6628,7 @@
                     <dependency>
                         <groupId>org.apache.avro</groupId>
                         <artifactId>avro</artifactId>
-                        <version>1.10.2</version>
+                        <version>1.11.3</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.avro</groupId>
@@ -6698,7 +6698,7 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-compress</artifactId>
-                        <version>1.21</version>
+                        <version>1.26.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.commons</groupId>
@@ -6738,7 +6738,7 @@
                     <dependency>
                         <groupId>commons-net</groupId>
                         <artifactId>commons-net</artifactId>
-                        <version>3.1</version>
+                        <version>3.9.0</version>
                     </dependency>
                     <dependency>
                         <groupId>commons-pool</groupId>
@@ -6748,7 +6748,7 @@
                     <dependency>
                         <groupId>org.apache.commons</groupId>
                         <artifactId>commons-text</artifactId>
-                        <version>1.6</version>
+                        <version>1.10.0</version>
                     </dependency>
                     <dependency>
                         <groupId>com.ning</groupId>
@@ -6793,7 +6793,7 @@
                     <dependency>
                         <groupId>org.apache.derby</groupId>
                         <artifactId>derby</artifactId>
-                        <version>10.14.2.0</version>
+                        <version>10.17.1.0</version>
                     </dependency>
                     <dependency>
                         <groupId>com.github.joshelser</groupId>
@@ -6953,7 +6953,7 @@
                     <dependency>
                         <groupId>org.apache.ivy</groupId>
                         <artifactId>ivy</artifactId>
-                        <version>2.5.0</version>
+                        <version>2.5.2</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
@@ -6973,7 +6973,7 @@
                     <dependency>
                         <groupId>com.fasterxml.jackson.core</groupId>
                         <artifactId>jackson-databind</artifactId>
-                        <version>2.12.3</version>
+                        <version>2.12.7.1</version>
                     </dependency>
                     <dependency>
                         <groupId>com.fasterxml.jackson.dataformat</groupId>
@@ -7318,7 +7318,7 @@
                     <dependency>
                         <groupId>org.apache.mesos</groupId>
                         <artifactId>mesos</artifactId>
-                        <version>1.4.0-shaded-protobuf</version>
+                        <version>1.6.2</version>
                     </dependency>
                     <dependency>
                         <groupId>io.dropwizard.metrics</groupId>
@@ -7353,7 +7353,7 @@
                     <dependency>
                         <groupId>io.netty</groupId>
                         <artifactId>netty-all</artifactId>
-                        <version>4.1.68.Final</version>
+                        <version>4.1.42.Final</version>
                     </dependency>
                     <dependency>
                         <groupId>org.objenesis</groupId>
@@ -7368,7 +7368,7 @@
                     <dependency>
                         <groupId>com.squareup.okio</groupId>
                         <artifactId>okio</artifactId>
-                        <version>1.14.0</version>
+                        <version>1.17.6</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.opencsv</groupId>
@@ -7438,7 +7438,7 @@
                     <dependency>
                         <groupId>com.google.protobuf</groupId>
                         <artifactId>protobuf-java</artifactId>
-                        <version>2.5.0</version>
+                        <version>3.16.3</version>
                     </dependency>
                     <dependency>
                         <groupId>net.sf.py4j</groupId>
@@ -7498,12 +7498,12 @@
                     <dependency>
                         <groupId>org.yaml</groupId>
                         <artifactId>snakeyaml</artifactId>
-                        <version>1.27</version>
+                        <version>2.0</version>
                     </dependency>
                     <dependency>
                         <groupId>org.xerial.snappy</groupId>
                         <artifactId>snappy-java</artifactId>
-                        <version>1.1.8.4</version>
+                        <version>1.1.10.4</version>
                     </dependency>
                     <dependency>
                         <groupId>org.apache.spark</groupId>
@@ -7693,7 +7693,7 @@
                     <dependency>
                         <groupId>org.apache.zookeeper</groupId>
                         <artifactId>zookeeper</artifactId>
-                        <version>3.6.2</version>
+                        <version>3.8.4</version>
                         <scope>test</scope>
                         <exclusions>
                             <exclusion>
